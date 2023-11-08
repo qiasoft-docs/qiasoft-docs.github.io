@@ -27,3 +27,12 @@ Qia Libs
 * <https://qiasoft-docs.github.io/qia-mdx-reader/>
 
 [![Qia mdx Reader](images/20210530-181423.png)](https://qiasoft-docs.github.io/qia-mdx-reader/)
+
+<style>
+  @media (prefers-color-scheme: dark) {
+    body {
+      color: #f0f0f0;
+      background-color: #505050;
+    }
+  }
+</style>
