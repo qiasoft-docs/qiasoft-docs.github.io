@@ -10,8 +10,8 @@ Qia Apps
 Qia Libs
 
 * [Qia Web Browser Libraries](https://qiasoft-docs.github.io/qia-web-browser-libraries/)
-* [Qia React Components](https://qiasoft-docs.github.io/qia-react-components/)
 * [Qia Web Widgets](https://qiasoft-docs.github.io/qia-web-widgets/)
+* [Qia React Components](https://qiasoft-docs.github.io/qia-react-components/)
 
 
 ## Qia Apps
